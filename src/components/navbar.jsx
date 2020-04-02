@@ -1,10 +1,10 @@
-import React, { Component } from "react";
+import React, { Component } from 'react';
 
 const NavBar = () => {
   return (
     <nav className="navbar navbar-light bg-light">
       <a className="navbar-brand" href="#">
-        Navbar{" "}
+        Menu{' '}
         <span className="badge badge-pill badge-secondary">
           <a href="/home">Home</a>
         </span>
